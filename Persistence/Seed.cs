@@ -14,19 +14,19 @@ namespace Persistence
         var Posts = new List<Post>
             {
               new Post {
-                Title = "First post!",
+                Title = "Lebron James",
                 Date = DateTime.Now.AddDays(-10),
-                Body = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                Body = "Lebron James is the best basketball player ever. There are no ifs, ands, or buts about it!"
               },
               new Post {
-                Title = "This is my second post.",
+                Title = "Kobe Bryant",
                 Date = DateTime.Now.AddDays(-7),
-                Body = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                Body = "Kobe Bryant is the most competitive winner there has been in basketball. Laker nation stand up!"
               },
               new Post {
-                Title = "Another day, another post",
+                Title = "Michael Jordan",
                 Date = DateTime.Now.AddDays(-4),
-                Body = "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
+                Body = "Michael Jordan is the greatest of all time. He has 6 championships, a 3-peat two different times. The hardware speaks for itself."
               }
             };
 
